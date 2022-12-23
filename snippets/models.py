@@ -18,7 +18,3 @@ class Snippet(models.Model):
     class Meta:
         ordering = ['created']
 
-
-from django.db import models
-
-# Create your models here.
